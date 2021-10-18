@@ -1,0 +1,3 @@
+C:\Users\15733\Desktop\VS Projects\recursiveFunction\Debug\recursiveFunction.exe
+C:\Users\15733\Desktop\VS Projects\recursiveFunction\Debug\recursiveFunction.pdb
+C:\Users\15733\Desktop\VS Projects\C++ from codebeauty\8\recursiveFunction\Debug\recursiveFunction.exe

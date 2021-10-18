@@ -1,0 +1,2 @@
+C:\Users\15733\Desktop\VS Projects\calculations\Debug\calculations.exe
+C:\Users\15733\Desktop\VS Projects\calculations\Debug\calculations.pdb

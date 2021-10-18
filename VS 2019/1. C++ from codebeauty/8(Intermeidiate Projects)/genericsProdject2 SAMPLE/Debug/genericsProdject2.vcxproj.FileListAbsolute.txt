@@ -1,0 +1,2 @@
+C:\Users\15733\Desktop\VS Projects\genericsProdject2\Debug\genericsProdject2.exe
+C:\Users\15733\Desktop\VS Projects\genericsProdject2\Debug\genericsProdject2.pdb

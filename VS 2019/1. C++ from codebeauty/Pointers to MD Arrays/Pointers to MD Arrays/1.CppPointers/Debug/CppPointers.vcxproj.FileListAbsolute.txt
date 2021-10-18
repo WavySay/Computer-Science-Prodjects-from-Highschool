@@ -1,0 +1,3 @@
+C:\Users\15733\Desktop\VS Projects\CppPointers\Debug\CppPointers.exe
+C:\Users\15733\Desktop\VS Projects\CppPointers\Debug\CppPointers.pdb
+C:\Users\15733\Desktop\VS Projects\10\CppPointers\Debug\CppPointers.exe

@@ -1,0 +1,8 @@
+﻿  LifeLab.cpp
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(48,12): error C2440: 'type cast': cannot convert from 'const char [2]' to 'int'
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(48,9): message : There is no context in which this conversion is possible
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(48,4): error C2046: illegal case
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(49,12): error C2440: 'type cast': cannot convert from 'const char [2]' to 'int'
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(49,9): message : There is no context in which this conversion is possible
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(49,4): error C2046: illegal case
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\LifeLab.cpp(50,4): warning C4060: switch statement contains no 'case' or 'default' labels

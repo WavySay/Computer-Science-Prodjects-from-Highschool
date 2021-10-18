@@ -1,0 +1,4 @@
+C:\Users\15733\Desktop\VS Projects\rectangleGenerator\Debug\rectangleGenerator.exe
+C:\Users\15733\Desktop\VS Projects\rectangleGenerator\Debug\rectangleGenerator.pdb
+C:\Users\15733\Desktop\VS Projects\7\rectangleGenerator\Debug\rectangleGenerator.exe
+C:\Users\15733\Desktop\VS Projects\7\rectangleGenerator\Debug\rectangleGenerator.pdb

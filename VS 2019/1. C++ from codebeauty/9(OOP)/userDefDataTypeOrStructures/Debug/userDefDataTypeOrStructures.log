@@ -1,0 +1,4 @@
+﻿  userDefDataTypeOrStructures.cpp
+C:\Users\15733\Desktop\VS Projects\userDefDataTypeOrStructures\userDefDataTypeOrStructures.cpp(27,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\15733\Desktop\VS Projects\userDefDataTypeOrStructures\userDefDataTypeOrStructures.cpp(32,26): warning C4305: '=': truncation from 'double' to 'float'
+  userDefDataTypeOrStructures.vcxproj -> C:\Users\15733\Desktop\VS Projects\userDefDataTypeOrStructures\Debug\userDefDataTypeOrStructures.exe

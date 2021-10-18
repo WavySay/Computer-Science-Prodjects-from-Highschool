@@ -1,0 +1,2 @@
+C:\Users\15733\Desktop\VS Projects\primeNumberIdentifierWithFunctions\Debug\primeNumberIdentifierWithFunctions.exe
+C:\Users\15733\Desktop\VS Projects\primeNumberIdentifierWithFunctions\Debug\primeNumberIdentifierWithFunctions.pdb

@@ -1,0 +1,4 @@
+C:\Users\15733\Desktop\VS Projects\evenAndOdd\Debug\evenAndOdd.exe
+C:\Users\15733\Desktop\VS Projects\evenAndOdd\Debug\evenAndOdd.pdb
+C:\Users\15733\Desktop\VS Projects\3\evenAndOdd\Debug\evenAndOdd.exe
+C:\Users\15733\Desktop\VS Projects\3\evenAndOdd\Debug\evenAndOdd.pdb

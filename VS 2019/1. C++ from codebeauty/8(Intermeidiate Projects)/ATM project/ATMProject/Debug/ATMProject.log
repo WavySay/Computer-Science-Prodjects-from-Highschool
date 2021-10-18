@@ -1,0 +1,3 @@
+﻿  ATMProject.cpp
+C:\Users\15733\Desktop\VS Projects\ATM project\ATMProject\ATMProject.cpp(86): warning C4715: 'menuOpertion': not all control paths return a value
+  ATMProject.vcxproj -> C:\Users\15733\Desktop\VS Projects\ATM project\ATMProject\Debug\ATMProject.exe

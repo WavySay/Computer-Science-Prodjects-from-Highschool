@@ -1,0 +1,2 @@
+﻿3x+1(Colletz Conjecture) indv.obj : error LNK2005: _main already defined in 3x+1 problem.obj
+C:\Users\15733\Desktop\VS Projects\3. OutsideProdjects\3x+1 problem\Debug\3x+1 problem.exe : fatal error LNK1169: one or more multiply defined symbols found

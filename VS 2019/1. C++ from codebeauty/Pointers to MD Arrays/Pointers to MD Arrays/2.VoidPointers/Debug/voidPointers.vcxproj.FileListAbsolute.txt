@@ -1,0 +1,3 @@
+C:\Users\15733\Desktop\VS Projects\voidPointers\Debug\voidPointers.exe
+C:\Users\15733\Desktop\VS Projects\voidPointers\Debug\voidPointers.pdb
+C:\Users\15733\Desktop\10\2.VoidPointers\Debug\voidPointers.exe

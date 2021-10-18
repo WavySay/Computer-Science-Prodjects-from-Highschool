@@ -1,0 +1,2 @@
+This folder is to test the effectiveness of PVS Studio
+There is no meaning in hear to the veiwer

@@ -1,0 +1,4 @@
+C:\Users\15733\Desktop\VS Projects\multiplicationTable\Debug\multiplicationTable.exe
+C:\Users\15733\Desktop\VS Projects\multiplicationTable\Debug\multiplicationTable.pdb
+C:\Users\15733\Desktop\VS Projects\6 (forLoops)\multiplicationTable\Debug\multiplicationTable.exe
+C:\Users\15733\Desktop\VS Projects\6 (forLoops)\multiplicationTable\Debug\multiplicationTable.pdb

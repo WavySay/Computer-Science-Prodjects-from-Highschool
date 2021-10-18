@@ -1,0 +1,2 @@
+C:\Users\15733\Desktop\VS Projects\triangleGenerator\Debug\triangleGenerator.exe
+C:\Users\15733\Desktop\VS Projects\triangleGenerator\Debug\triangleGenerator.pdb

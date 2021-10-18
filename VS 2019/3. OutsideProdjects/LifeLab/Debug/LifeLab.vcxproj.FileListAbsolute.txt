@@ -1,0 +1,3 @@
+C:\Users\15733\Desktop\VS Projects\LifeLab\Debug\LifeLab.exe
+C:\Users\15733\Desktop\VS Projects\LifeLab\Debug\LifeLab.pdb
+C:\Users\15733\Desktop\VS Projects\Outside Prodjects\LifeLab\Debug\LifeLab.exe
